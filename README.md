@@ -1,5 +1,7 @@
 # PokéRogue – Unlock All Script
 
+![PokéRogue Logo](https://cdn2.steamgriddb.com/logo_thumb/76309ad71e20e963ec6cf4b5b8a9b87f.png)
+
 > ⚠️ **Unofficial / Experimental Project**
 
 ## Overview
@@ -8,6 +10,12 @@ This repository contains an **experimental browser script** for the web game **P
 The script modifies the **client-side game state at runtime** to mark all available in-game content as **unlocked**.
 
 This project is intended for **educational, debugging, and experimental purposes only**.
+
+---
+
+## Tutorial
+
+[![Thanks to hellogoodgame](https://img.youtube.com/vi/jIGa3OXmEeE/0.jpg)](https://www.youtube.com/watch?v=jIGa3OXmEeE)
 
 ---
 
